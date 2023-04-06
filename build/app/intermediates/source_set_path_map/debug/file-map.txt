@@ -1,0 +1,17 @@
+com.example.whatsapp_ui_clone.app-jetified-window-java-1.0.0-beta04-0 /Users/raphaelb/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.whatsapp_ui_clone.app-core-1.8.0-1 /Users/raphaelb/.gradle/caches/transforms-3/270e9501dde0430a83746f97bf9ab544/transformed/core-1.8.0/res
+com.example.whatsapp_ui_clone.app-lifecycle-runtime-2.3.1-2 /Users/raphaelb/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/res
+com.example.whatsapp_ui_clone.app-jetified-annotation-experimental-1.1.0-3 /Users/raphaelb/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.whatsapp_ui_clone.app-jetified-core-ktx-1.8.0-4 /Users/raphaelb/.gradle/caches/transforms-3/b431c95aeca551584d4466c6f05603c2/transformed/jetified-core-ktx-1.8.0/res
+com.example.whatsapp_ui_clone.app-jetified-window-1.0.0-beta04-5 /Users/raphaelb/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.whatsapp_ui_clone.app-debug-6 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/android/app/src/debug/res
+com.example.whatsapp_ui_clone.app-main-7 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/android/app/src/main/res
+com.example.whatsapp_ui_clone.app-pngs-8 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/app/generated/res/pngs/debug
+com.example.whatsapp_ui_clone.app-resValues-9 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/app/generated/res/resValues/debug
+com.example.whatsapp_ui_clone.app-rs-10 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/app/generated/res/rs/debug
+com.example.whatsapp_ui_clone.app-mergeDebugResources-11 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.whatsapp_ui_clone.app-mergeDebugResources-12 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.whatsapp_ui_clone.app-merged_res-13 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/app/intermediates/merged_res/debug
+com.example.whatsapp_ui_clone.app-packaged_res-14 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/audioplayers_android/intermediates/packaged_res/debug
+com.example.whatsapp_ui_clone.app-packaged_res-15 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/path_provider_android/intermediates/packaged_res/debug
+com.example.whatsapp_ui_clone.app-packaged_res-16 /Users/raphaelb/Documents/Learning/Flutter/whatsapp_ui_clone/build/sqflite/intermediates/packaged_res/debug
